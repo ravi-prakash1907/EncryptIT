@@ -1,4 +1,4 @@
-# EncryptIt (Runnable JAR)
+# Encrypt-It (Runnable JAR)
 
 This is Java encryption application that is inspired from Enigma Machine.
 
