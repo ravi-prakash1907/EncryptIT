@@ -16,4 +16,3 @@ Now, the client can work it's job. <b />
 Launch the client application using following command:
 ```java -jar clientMain.jar```
 
-#### by [Ravi Prakash]( https://raviprakashravi.cf/ )
