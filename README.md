@@ -12,7 +12,7 @@ Based on the Enigma machine, although, its encryption is quite different than th
 Initially run the server
 ```java -jar serverMain.jar```
 
-Now, the client can work it's job. <b />
-Launch the client application using following command:
+Now, the client can perform its job.  
+Launch the client application using following command:  
 ```java -jar clientMain.jar```
 
